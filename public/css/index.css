@@ -1,0 +1,53 @@
+body {
+  background-image: url("https://images.pexels.com/photos/4827/nature-forest-trees-fog.jpeg?cs=srgb&dl=fog-foggy-forest-4827.jpg&fm=jpg");
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-default{
+    background:transparent;
+    background-image:none;
+    border-color:transparent;
+    box-shadow:none;
+  }
+  .navbar-default.nav.nav-item{
+    color: black;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #277727;
+    color: black;
+  }
+  
+  .topnav a.active {
+    /* background-color: #4CAF50; */
+    color: white;
+  }
+  
+  .topnav-right {
+    float: right;
+    color: black;
+  }
+          .footer {
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            background-color: #333333;
+            color: white;
+            text-align: center;
+         }

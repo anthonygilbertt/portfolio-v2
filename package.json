@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-v2",
+  "version": "1.0.0",
+  "description": "Anthony Gilberts Professional Portfolio",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonygilbertt/portfolio-v2.git"
+  },
+  "author": "Anthony Gilbert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonygilbertt/portfolio-v2/issues"
+  },
+  "homepage": "https://github.com/anthonygilbertt/portfolio-v2#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "nodemailer": "^5.1.1"
+  }
+}
